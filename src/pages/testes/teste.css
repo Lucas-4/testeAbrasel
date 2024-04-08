@@ -1,0 +1,33 @@
+.teste {
+    width: 60%;
+}
+
+.vehicle-picker .button {
+    background-color: transparent;
+    border-radius: 0;
+}
+
+.vehicle-picker .button {
+    background-color: rgba(240, 248, 255, 0.116);
+}
+form p {
+    font-weight: 800;
+}
+.selected {
+    border-bottom: 2px solid rgb(19, 82, 218);
+}
+
+.cep-data {
+    margin: 0;
+}
+
+.cep-data p,
+.cep-data span {
+    font-size: 15px;
+    margin: 0;
+}
+
+.cep-data span {
+    font-weight: 700;
+    margin-right: 5px;
+}
